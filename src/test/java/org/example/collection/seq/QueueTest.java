@@ -1,4 +1,4 @@
-package org.example;
+package org.example.collection.seq;
 
 import static com.google.common.truth.Truth.assertThat;
 
